@@ -18,6 +18,15 @@
 - Links
   - [Demo](https://dari-alves-404-not-found.netlify.app/)
   - [Repo](https://github.com/DariAlves/404-not-found)
+
+### 3 - My Team Page ([devChallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY))
+- Tecnologias utilizadas
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [SASS](https://sass-lang.com/)
+- Links
+  - [Demo](https://dari-alves-my-team-page.netlify.app/)
+  - [Repo](https://github.com/DariAlves/my-team-page)
  
 ## Contact
 
