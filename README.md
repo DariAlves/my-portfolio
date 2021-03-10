@@ -28,7 +28,7 @@
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   - [SASS](https://sass-lang.com/)
  
- ### 4 - Rick and Morty - Search
+ ### 4 - Rick and Morty API - Search
 - Links
   - [Demo](https://dari-alves-rick-morty-search.netlify.app/)
   - [Repo](https://github.com/DariAlves/rick-and-morty-api)
